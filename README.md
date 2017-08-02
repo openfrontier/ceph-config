@@ -1,4 +1,4 @@
-# Get ceph.conf from etcd cluster
+# Generate ceph.conf from etcd cluster
 
 ## Container Quickstart
 
