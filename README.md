@@ -1,3 +1,5 @@
-# Container Quickstart
+# Get ceph.conf from etcd cluster
 
-./get-config.sh ${ETCD_CLIENT_IP} ${CLUSTER}
+## Container Quickstart
+
+./ceph-get-config.sh ${ETCD_CLIENT_IP} ${CLUSTER_NAME}
